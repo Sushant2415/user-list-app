@@ -68,7 +68,7 @@ user-list-app/
 ![alt text](image.png)
 ![alt text](image-1.png)
 
-hrough this project, I improved my understanding of:
+Through this project, I improved my understanding of:
 
 - Asynchronous JavaScript
 - REST APIs
